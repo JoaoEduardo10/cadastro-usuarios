@@ -28,7 +28,7 @@ export default class MyDocument extends Document {
 		return (
 			<Html lang='pt-br'>
 				<Head>
-					<link rel="stylesheet" href={'/css/fonts.css'} />
+					<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
 				</Head>
 				<body>
 					<Main />

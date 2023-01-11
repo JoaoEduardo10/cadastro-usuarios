@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'Netflix';
-    src: url('../fonts/NetflixSans-Light.otf');
-}
-
-body {
-    font-family: 'Netflix' Arial, Helvetica, sans-serif;
-}
